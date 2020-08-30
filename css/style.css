@@ -278,7 +278,7 @@ h6 {
 #hero {
     width: 100%;
     height: calc(100vh - 72px);
-    background: url("../img/bg9.jpeg") center center;
+    background: url("/img/bg9.jpeg") center center;
     background-size: cover;
     position: relative;
     margin-top: 72px;
